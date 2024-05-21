@@ -1,2 +1,3 @@
-sumit@gmail.com
-sumit@1998
+#Firebase Details
+jeetpatelultron@gmail.com
+slicespizzeria
